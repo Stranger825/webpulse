@@ -108,7 +108,7 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Stranger825/webpulse/blob/main/LICENSE) file for more details.
 
 ## Acknowledgments
 
